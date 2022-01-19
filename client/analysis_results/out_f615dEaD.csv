@@ -1,0 +1,161 @@
+Hashtag,Keyword,Sentiment,Frequency,Positive (%),Neutral (%),Negative (%)
+coles,"gluten-free vegan cookies",POSITIVE,1,0.980000,0.020000,0.000000
+coles,"great work",POSITIVE,1,0.980000,0.010000,0.010000
+coles,"great writeup",POSITIVE,1,0.980000,0.020000,0.000000
+coles,"integrity food co",POSITIVE,1,0.980000,0.020000,0.000000
+coles,"mathew stillone",POSITIVE,1,0.980000,0.020000,0.000000
+coles,"move",POSITIVE,1,0.980000,0.010000,0.010000
+coles,"challenge",POSITIVE,1,0.880000,0.110000,0.010000
+coles,"point",POSITIVE,1,0.880000,0.110000,0.010000
+coles,"risk management review",POSITIVE,1,0.880000,0.110000,0.010000
+coles,"chai",POSITIVE,1,0.570000,0.120000,0.310000
+coles,"couch",POSITIVE,1,0.570000,0.120000,0.310000
+coles,"sandra_sully",POSITIVE,1,0.570000,0.120000,0.310000
+coles,"buniehops",POSITIVE,1,0.520000,0.360000,0.120000
+coles,"eatme",POSITIVE,1,0.520000,0.360000,0.120000
+coles,"fun",POSITIVE,1,0.520000,0.360000,0.120000
+coles,"rt",POSITIVE,1,0.520000,0.360000,0.120000
+coles,"slut",POSITIVE,1,0.520000,0.360000,0.120000
+coles,"staytruehops",POSITIVE,1,0.520000,0.360000,0.120000
+coles,"6 jul",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"catalogue",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"competition",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"food",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"giftcard",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"giveaway",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"grocery",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"jun",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"june",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"myer",NEUTRAL,1,0.000000,1.000000,0.000000
+coles,"asia",NEUTRAL,1,0.010000,0.950000,0.040000
+coles,"ceo",NEUTRAL,1,0.010000,0.950000,0.040000
+coles,"member",NEUTRAL,1,0.010000,0.950000,0.040000
+coles,"only hypermarket",NEUTRAL,1,0.010000,0.950000,0.040000
+coles,"rise",NEUTRAL,1,0.010000,0.950000,0.040000
+coles,"same format",NEUTRAL,1,0.010000,0.950000,0.040000
+coles,"gover",NEUTRAL,1,0.130000,0.850000,0.020000
+coles,"hospitality business owners",NEUTRAL,1,0.130000,0.850000,0.020000
+coles,"numbers",NEUTRAL,1,0.130000,0.850000,0.020000
+coles,"power",NEUTRAL,1,0.130000,0.850000,0.020000
+coles,"union",NEUTRAL,1,0.130000,0.850000,0.020000
+coles,"ban",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"bowl",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"commitment",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"cups",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"february",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"plates",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"single-use #plastic tableware",NEUTRAL,1,0.000000,0.690000,0.310000
+coles,"adelaide",NEUTRAL,1,0.310000,0.680000,0.010000
+coles,"covid19aus",NEUTRAL,1,0.310000,0.680000,0.010000
+coles,"lockdownrumours",NEUTRAL,1,0.310000,0.680000,0.010000
+coles,"hypoallerg",NEUTRAL,1,0.440000,0.560000,0.000000
+coles,"astroglide glycerin",NEUTRAL,2,0.455000,0.545000,0.000000
+coles,"paraben free personal lubricant",NEUTRAL,2,0.455000,0.545000,0.000000
+coles,"special",NEUTRAL,2,0.455000,0.545000,0.000000
+coles,"water",NEUTRAL,2,0.455000,0.545000,0.000000
+coles,"midnight",NEUTRAL,1,0.470000,0.530000,0.000000
+coles,"australia",NEGATIVE,1,0.000000,0.030000,0.970000
+coles,"col.",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"f**k",NEGATIVE,1,0.000000,0.030000,0.970000
+coles,"farmer col",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"farmer john",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"marketing",NEGATIVE,1,0.000000,0.030000,0.970000
+coles,"masterchefau",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"opportunity",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"premium ice",NEGATIVE,1,0.000000,0.030000,0.970000
+coles,"produce",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"shoulda",NEGATIVE,1,0.020000,0.010000,0.970000
+coles,"wtf",NEGATIVE,1,0.000000,0.030000,0.970000
+coles,"99% staff",NEGATIVE,1,0.170000,0.160000,0.670000
+coles,"gloves",NEGATIVE,1,0.170000,0.160000,0.670000
+coles,"items",NEGATIVE,1,0.170000,0.160000,0.670000
+coles,"masks",NEGATIVE,1,0.170000,0.160000,0.670000
+coles,"none",NEGATIVE,1,0.170000,0.160000,0.670000
+coles,"coles",MIXED,3,0.326667,0.346667,0.326667
+woolworths,"perfect example",POSITIVE,1,0.990000,0.010000,0.000000
+woolworths,"stakeholders",POSITIVE,1,0.990000,0.010000,0.000000
+woolworths,"algorithm",POSITIVE,1,0.950000,0.050000,0.000000
+woolworths,"shopping",POSITIVE,1,0.950000,0.050000,0.000000
+woolworths,"careforcountry",POSITIVE,1,0.930000,0.070000,0.000000
+woolworths,"local @woolworths",POSITIVE,1,0.930000,0.070000,0.000000
+woolworths,"naidoc poster",POSITIVE,1,0.930000,0.070000,0.000000
+woolworths,"naidoc2021",POSITIVE,1,0.930000,0.070000,0.000000
+woolworths,"leading australian superm",POSITIVE,1,0.790000,0.200000,0.010000
+woolworths,"aroma",POSITIVE,7,0.704286,0.285714,0.010000
+woolworths,"pak basmati",POSITIVE,7,0.704286,0.285714,0.010000
+woolworths,"pakistani basmati",POSITIVE,7,0.704286,0.285714,0.010000
+woolworths,"quality",POSITIVE,7,0.704286,0.285714,0.010000
+woolworths,"world trusts",POSITIVE,7,0.704286,0.285714,0.010000
+woolworths,"leading australian supermarket",POSITIVE,6,0.690000,0.300000,0.010000
+woolworths,"pakistanaus",POSITIVE,6,0.690000,0.300000,0.010000
+woolworths,"smartcompany",POSITIVE,1,0.540000,0.440000,0.020000
+woolworths,"passionate, committed apprentices",POSITIVE,1,0.500000,0.490000,0.010000
+woolworths,"woolworths li̇stede",NEUTRAL,1,0.000000,1.000000,0.000000
+woolworths,"9am",NEUTRAL,1,0.010000,0.980000,0.010000
+woolworths,"antiox",NEUTRAL,3,0.010000,0.960000,0.030000
+woolworths,"colours",NEUTRAL,4,0.012500,0.947500,0.040000
+woolworths,"emulsifiers",NEUTRAL,4,0.012500,0.947500,0.040000
+woolworths,"flavours",NEUTRAL,4,0.012500,0.947500,0.040000
+woolworths,"palm oil",NEUTRAL,4,0.012500,0.947500,0.040000
+woolworths,"fionaadorno",NEUTRAL,1,0.080000,0.890000,0.030000
+woolworths,"sarkysage",NEUTRAL,1,0.080000,0.890000,0.030000
+woolworths,"supermarket chains",NEUTRAL,1,0.080000,0.890000,0.030000
+woolworths,"correzpond",NEUTRAL,4,0.027500,0.870000,0.102500
+woolworths,"covidiots",NEUTRAL,1,0.070000,0.820000,0.110000
+woolworths,"covidnsw",NEUTRAL,1,0.070000,0.820000,0.110000
+woolworths,"deltavariant",NEUTRAL,1,0.070000,0.820000,0.110000
+woolworths,"hashtags",NEUTRAL,1,0.070000,0.820000,0.110000
+woolworths,"sydneylockdown",NEUTRAL,1,0.070000,0.820000,0.110000
+woolworths,"coles",NEUTRAL,2,0.080000,0.795000,0.125000
+woolworths,"iga",NEUTRAL,2,0.080000,0.795000,0.125000
+woolworths,"home",NEUTRAL,5,0.012000,0.778000,0.210000
+woolworths,"margarine",NEUTRAL,5,0.012000,0.778000,0.210000
+woolworths,"aldi",NEUTRAL,2,0.075000,0.760000,0.165000
+woolworths,"local #woolworths",NEUTRAL,1,0.110000,0.730000,0.160000
+woolworths,"pictorial contribution",NEUTRAL,1,0.110000,0.730000,0.160000
+woolworths,"government",NEUTRAL,1,0.080000,0.700000,0.220000
+woolworths,"heads",NEUTRAL,1,0.080000,0.700000,0.220000
+woolworths,"lo",NEUTRAL,1,0.080000,0.700000,0.220000
+woolworths,"major supermarkets",NEUTRAL,1,0.080000,0.700000,0.220000
+woolworths,"9 mon",NEUTRAL,1,0.080000,0.600000,0.320000
+woolworths,"belindasmilne",NEUTRAL,1,0.080000,0.600000,0.320000
+woolworths,"fridge",NEUTRAL,1,0.080000,0.600000,0.320000
+woolworths,"mould",NEUTRAL,1,0.080000,0.600000,0.320000
+woolworths,"sign",NEUTRAL,1,0.080000,0.600000,0.320000
+woolworths,"white bread",NEUTRAL,1,0.080000,0.600000,0.320000
+woolworths,"comments",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"end",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"insideretailau",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"nope",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"panic",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"primordial urge",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"ruthhogan2",NEGATIVE,2,0.000000,0.000000,1.000000
+woolworths,"2 week lockdown",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"essential food shopping",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"goto coles people",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"items",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"limits",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"lockdown",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"profconsumers",NEGATIVE,1,0.000000,0.000000,1.000000
+woolworths,"people",NEGATIVE,2,0.040000,0.050000,0.910000
+woolworths,"push notification",NEGATIVE,1,0.100000,0.000000,0.900000
+woolworths,"staff",NEGATIVE,1,0.100000,0.000000,0.900000
+woolworths,"wrong thing",NEGATIVE,1,0.100000,0.000000,0.900000
+woolworths,"largest contributor",NEGATIVE,1,0.010000,0.100000,0.890000
+woolworths,"bread",NEGATIVE,1,0.080000,0.100000,0.820000
+woolworths,"supermarkets",NEGATIVE,1,0.080000,0.100000,0.820000
+woolworths,"ugh",NEGATIVE,1,0.080000,0.100000,0.820000
+woolworths,"work",NEGATIVE,1,0.080000,0.100000,0.820000
+woolworths,"boot pickup",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"bugs",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"direct",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"sunricefoods",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"things",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"time",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"weekly order",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"woolies",NEGATIVE,1,0.050000,0.240000,0.710000
+woolworths,"dan murphy",NEGATIVE,2,0.270000,0.220000,0.510000
+woolworths,"three “dry” communities",NEGATIVE,2,0.270000,0.220000,0.510000
+woolworths,"walking distance",NEGATIVE,2,0.270000,0.220000,0.510000
+woolworths,"woolworths",MIXED,11,0.227273,0.318182,0.454545
+woolworths,"rt",MIXED,10,0.417000,0.468000,0.115000

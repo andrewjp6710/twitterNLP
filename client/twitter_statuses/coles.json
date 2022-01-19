@@ -1,0 +1,1972 @@
+[
+  {
+    "created_at": "Fri Jul 02 06:10:43 +0000 2021",
+    "id": 1410843359917264897,
+    "id_str": "1410843359917264897",
+    "text": "Great writeup re Mathew Stillone's Integrity Food Co + #BotanikaBlends getting their gluten-free vegan cookies stoc\u2026 https://t.co/dkl1BECyqC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BotanikaBlends",
+          "indices": [
+            55,
+            70
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dkl1BECyqC",
+          "expanded_url": "https://twitter.com/i/web/status/1410843359917264897",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 53638132,
+      "id_str": "53638132",
+      "name": "Leigh-Chantelle",
+      "screen_name": "leighchantelle",
+      "location": "Gold Coast, Queensland",
+      "description": "#cyberpsychology #cybersecurity & #digitalwellbeing educator // PhD candidate - AVs & blockchain technologies // #music #AFL #tech #politics // #vegan veteran",
+      "url": "https://t.co/hYuSPv6iBy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hYuSPv6iBy",
+              "expanded_url": "http://www.leigh-chantelle.com",
+              "display_url": "leigh-chantelle.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1765,
+      "friends_count": 56,
+      "listed_count": 209,
+      "created_at": "Sat Jul 04 09:41:23 +0000 2009",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15216,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1344145477084667904/u9ioPUxb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344145477084667904/u9ioPUxb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/53638132/1609304177",
+      "profile_link_color": "B40B44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 06:55:42 +0000 2021",
+    "id": 1410492291299516417,
+    "id_str": "1410492291299516417",
+    "text": "@Sandra_Sully Hey Sandra. U look nice . Tonight. Got off the couch the wrong way today lol. Couldn't find the  Chai\u2026 https://t.co/7N0xax3Lem",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Sandra_Sully",
+          "name": "Sandra Sully \ud83d\udcfa\ud83c\udfa7\ud83d\udcf2\ud83c\udfd1\ud83c\udf3a",
+          "id": 142957691,
+          "id_str": "142957691",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7N0xax3Lem",
+          "expanded_url": "https://twitter.com/i/web/status/1410492291299516417",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 142957691,
+    "in_reply_to_user_id_str": "142957691",
+    "in_reply_to_screen_name": "Sandra_Sully",
+    "user": {
+      "id": 515494447,
+      "id_str": "515494447",
+      "name": "Cathy e Hamilton",
+      "screen_name": "Catlover3567",
+      "location": "the Sunshine Coast Qld",
+      "description": "Little Tommy's mom. mom to two cats. love the beach n peace n quiet. Have snails. Love 2012. come together make a difference. save Tommy 4 2nd season.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1290,
+      "friends_count": 4963,
+      "listed_count": 55,
+      "created_at": "Mon Mar 05 13:58:57 +0000 2012",
+      "favourites_count": 95442,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 71653,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287275274707415040/6bmcn4BJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287275274707415040/6bmcn4BJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/515494447/1377072792",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 03:30:02 +0000 2021",
+    "id": 1410440535245037572,
+    "id_str": "1410440535245037572",
+    "text": "#Coles made the commitment in February, including a ban on single-use #plastic tableware such as cups, plates, bowl\u2026 https://t.co/XEAh8G3OEA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "plastic",
+          "indices": [
+            70,
+            78
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XEAh8G3OEA",
+          "expanded_url": "https://twitter.com/i/web/status/1410440535245037572",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 218345450,
+      "id_str": "218345450",
+      "name": "HandleMyComplaint",
+      "screen_name": "HandleComplaint",
+      "location": "Australia",
+      "description": "All things #complaint related. Money/hassle-saving #tips. You deserve better. Speak up. Have your complaint #HMCHandled. Let\u2019s eradicate poor #customerservice!",
+      "url": "https://t.co/6pSlLlvdcB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6pSlLlvdcB",
+              "expanded_url": "http://handlemycomplaint.com.au",
+              "display_url": "handlemycomplaint.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 809,
+      "friends_count": 1908,
+      "listed_count": 19,
+      "created_at": "Mon Nov 22 02:51:45 +0000 2010",
+      "favourites_count": 53,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2557,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1335813925829406720/X0JkDYw-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335813925829406720/X0JkDYw-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/218345450/1624871817",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 02:28:24 +0000 2021",
+    "id": 1410425023198760962,
+    "id_str": "1410425023198760962",
+    "text": "This move needs to be applauded.. great work #Coles @Coles https://t.co/pYMg9aWbwq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            45,
+            51
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Coles",
+          "name": "Coles Supermarkets",
+          "id": 29938031,
+          "id_str": "29938031",
+          "indices": [
+            52,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pYMg9aWbwq",
+          "expanded_url": "https://www.news.com.au/lifestyle/food/eat/coles-to-strip-entire-range-from-shelves-in-bold-new-move/news-story/a98b3fe62310f772b04faff1ffc21d5d",
+          "display_url": "news.com.au/lifestyle/food\u2026",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2369535842,
+      "id_str": "2369535842",
+      "name": "Deepti Sankar",
+      "screen_name": "DeeptiSankar1",
+      "location": "Altona, Melbourne",
+      "description": "Weird and predictable!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 66,
+      "friends_count": 364,
+      "listed_count": 0,
+      "created_at": "Sun Mar 02 23:50:20 +0000 2014",
+      "favourites_count": 2363,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 329,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/582425027699601408/zWW2mmtq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/582425027699601408/zWW2mmtq_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 12:03:43 +0000 2021",
+    "id": 1410207417455943680,
+    "id_str": "1410207417455943680",
+    "text": "What are they learning from this challenge? But that wasn\u2019t the point huh? #coles \n\nHow did it just past the risk management review?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "coles",
+          "indices": [
+            75,
+            81
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1410205657102360583,
+    "in_reply_to_status_id_str": "1410205657102360583",
+    "in_reply_to_user_id": 15340706,
+    "in_reply_to_user_id_str": "15340706",
+    "in_reply_to_screen_name": "snarkywench",
+    "user": {
+      "id": 15340706,
+      "id_str": "15340706",
+      "name": "Adele Walsh",
+      "screen_name": "snarkywench",
+      "location": "Melbourne, Australia",
+      "description": "Community Outreach & Engagement at @LTULibrary | YA Lit and Teen Advocate | Maggie\u2019s hooman | Co-host @itsunladylike & @bridgertonpod. She/her.",
+      "url": "https://t.co/YcGE3V51NF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YcGE3V51NF",
+              "expanded_url": "https://linktr.ee/snarkywench",
+              "display_url": "linktr.ee/snarkywench",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5202,
+      "friends_count": 1036,
+      "listed_count": 226,
+      "created_at": "Mon Jul 07 10:41:09 +0000 2008",
+      "favourites_count": 5694,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 85765,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1176391074459222016/w25m9ZHD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176391074459222016/w25m9ZHD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15340706/1442138703",
+      "profile_link_color": "7FDBB6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 09:46:14 +0000 2021",
+    "id": 1410172821163020289,
+    "id_str": "1410172821163020289",
+    "text": "They missed an opportunity with Farmer John. Shoulda got Col. Then they\u2019d have Farmer Col\u2019s produce #Coles #MasterChefAU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            100,
+            106
+          ]
+        },
+        {
+          "text": "MasterChefAU",
+          "indices": [
+            107,
+            120
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 820119530517057538,
+      "id_str": "820119530517057538",
+      "name": "DTGTO \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+      "screen_name": "DTGTObook",
+      "location": "Central Coast, New South Wales",
+      "description": "I am the little #Book that could. Written by Australian of the year nominated Author. I am \u201cDying to get to Oklahoma\u201d #DTGTO",
+      "url": "https://t.co/UFgs3QgHEO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UFgs3QgHEO",
+              "expanded_url": "https://www.bookdepository.com/Dying-Get-Oklahoma-Ash-MacKinnon/9781447826002",
+              "display_url": "bookdepository.com/Dying-Get-Okla\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 73,
+      "friends_count": 114,
+      "listed_count": 0,
+      "created_at": "Sat Jan 14 04:05:07 +0000 2017",
+      "favourites_count": 5074,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4727,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/895149895216095232/54SBLWE0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/895149895216095232/54SBLWE0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/820119530517057538/1502255280",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 03:18:23 +0000 2021",
+    "id": 1410075212289253383,
+    "id_str": "1410075212289253383",
+    "text": "Our CEO, @CraigFlanders, looks at the rise of member-only hypermarket across Asia and asks if the same format could\u2026 https://t.co/347ReyOdeE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CraigFlanders",
+          "name": "Craig Flanders",
+          "id": 308875659,
+          "id_str": "308875659",
+          "indices": [
+            9,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/347ReyOdeE",
+          "expanded_url": "https://twitter.com/i/web/status/1410075212289253383",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 105985441,
+      "id_str": "105985441",
+      "name": "Spinach",
+      "screen_name": "SpinachAus",
+      "location": "Melbourne, Australia",
+      "description": "Nutrient rich full-service creative agency. Known to stimulate growth, lower blood pressure and relieve constipation in marketing departments.",
+      "url": "https://t.co/rUztdLaRGF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rUztdLaRGF",
+              "expanded_url": "http://spinach.com.au",
+              "display_url": "spinach.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 442,
+      "friends_count": 354,
+      "listed_count": 22,
+      "created_at": "Mon Jan 18 04:04:13 +0000 2010",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1009,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469294593687568385/dDELUr_p_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469294593687568385/dDELUr_p_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/105985441/1579238405",
+      "profile_link_color": "36AA49",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "48C238",
+      "profile_text_color": "4A424A",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 01:52:44 +0000 2021",
+    "id": 1410053657425420290,
+    "id_str": "1410053657425420290",
+    "text": "And just like that, here we go again #coles #COVID19Aus #adelaide #lockdownrumours https://t.co/CMnYJdlaWX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "coles",
+          "indices": [
+            37,
+            43
+          ]
+        },
+        {
+          "text": "COVID19Aus",
+          "indices": [
+            44,
+            55
+          ]
+        },
+        {
+          "text": "adelaide",
+          "indices": [
+            56,
+            65
+          ]
+        },
+        {
+          "text": "lockdownrumours",
+          "indices": [
+            66,
+            82
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1410053594817044480,
+          "id_str": "1410053594817044480",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5GERhFVIAAjn0u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5GERhFVIAAjn0u.jpg",
+          "url": "https://t.co/CMnYJdlaWX",
+          "display_url": "pic.twitter.com/CMnYJdlaWX",
+          "expanded_url": "https://twitter.com/Caroline_Winter/status/1410053657425420290/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1410053594817044480,
+          "id_str": "1410053594817044480",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5GERhFVIAAjn0u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5GERhFVIAAjn0u.jpg",
+          "url": "https://t.co/CMnYJdlaWX",
+          "display_url": "pic.twitter.com/CMnYJdlaWX",
+          "expanded_url": "https://twitter.com/Caroline_Winter/status/1410053657425420290/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 22696639,
+      "id_str": "22696639",
+      "name": "Caroline Winter \ud83c\udfa7",
+      "screen_name": "Caroline_Winter",
+      "location": "Adelaide, Australia",
+      "description": "Podcaster | Broadcaster | Storyteller. Former ABC audio current affairs reporter, now creating pod content for dog lovers & others caroline@podtalk.com.au",
+      "url": "https://t.co/uypLVm9qsp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/uypLVm9qsp",
+              "expanded_url": "https://www.dogpodcastnetwork.com",
+              "display_url": "dogpodcastnetwork.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3381,
+      "friends_count": 2759,
+      "listed_count": 99,
+      "created_at": "Tue Mar 03 23:05:39 +0000 2009",
+      "favourites_count": 4166,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3481,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716227591644925953/ldeciSLf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716227591644925953/ldeciSLf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22696639/1459854986",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 29 14:16:46 +0000 2021",
+    "id": 1409878514036318211,
+    "id_str": "1409878514036318211",
+    "text": "June 2021 Giveaway https://t.co/sxeRhCX7Dm #$100 #Coles #Myer #Giftcard #Competition",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            49,
+            55
+          ]
+        },
+        {
+          "text": "Myer",
+          "indices": [
+            56,
+            61
+          ]
+        },
+        {
+          "text": "Giftcard",
+          "indices": [
+            62,
+            71
+          ]
+        },
+        {
+          "text": "Competition",
+          "indices": [
+            72,
+            84
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sxeRhCX7Dm",
+          "expanded_url": "https://wn.nr/3EsvJc",
+          "display_url": "wn.nr/3EsvJc",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2827425690,
+      "id_str": "2827425690",
+      "name": "Arjay Martin",
+      "screen_name": "VoteArjay",
+      "location": "Queensland",
+      "description": "My speech is protected with the Implied Rights of Political Communication. RTs/Fs not endorsement. All of my actual posts are opinion only. F4F unless nuts. Ta.",
+      "url": "https://t.co/Gc3BsEavku",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Gc3BsEavku",
+              "expanded_url": "http://arjaymartin.com",
+              "display_url": "arjaymartin.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4313,
+      "friends_count": 4719,
+      "listed_count": 31,
+      "created_at": "Tue Sep 23 05:16:33 +0000 2014",
+      "favourites_count": 10494,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6968,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1384451203476516870/bmXtJXFl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384451203476516870/bmXtJXFl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2827425690/1422244733",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 28 21:10:04 +0000 2021",
+    "id": 1409620136387133441,
+    "id_str": "1409620136387133441",
+    "text": "Astroglide Glycerin &amp; Paraben Free Personal Lubricant is on special until MIDNIGHT at #Coles \n\nWater based, hypoall\u2026 https://t.co/4d1h84RT2t",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            90,
+            96
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4d1h84RT2t",
+          "expanded_url": "https://twitter.com/i/web/status/1409620136387133441",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 42381766,
+      "id_str": "42381766",
+      "name": "Astroglide Australia",
+      "screen_name": "Astroglide_Aust",
+      "location": "Australia",
+      "description": "Lubricating, long-lasting and never sticky, ASTROGLIDE's products are formulated to help you take your sex life to the next level. Made in USA. Free samples.",
+      "url": "https://t.co/78iJmt7ADv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/78iJmt7ADv",
+              "expanded_url": "https://www.astroglideaustralia.com/",
+              "display_url": "astroglideaustralia.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 609,
+      "friends_count": 1023,
+      "listed_count": 67,
+      "created_at": "Mon May 25 09:54:13 +0000 2009",
+      "favourites_count": 7301,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 39470,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8131B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1390872662453358592/AUHVvNFp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390872662453358592/AUHVvNFp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/42381766/1582871278",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 28 10:41:01 +0000 2021",
+    "id": 1409461830649409539,
+    "id_str": "1409461830649409539",
+    "text": "and sooooo it began smh. come on #coles https://t.co/57Fgq0fkDf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "coles",
+          "indices": [
+            33,
+            39
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/57Fgq0fkDf",
+          "expanded_url": "https://twitter.com/SJOBrien8906/status/1408671809088622596",
+          "display_url": "twitter.com/SJOBrien8906/s\u2026",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 183566529,
+      "id_str": "183566529",
+      "name": "Uva Back",
+      "screen_name": "uva_back",
+      "location": "Lewisham, Sydney",
+      "description": "Perfectly Imperfect. \u2764\ufe0f \nDiscord: https://t.co/8wotKeNFAQ\nYoutube: https://t.co/a7xeB8TWa2\nTwitch: https://t.co/NGUDesLN9b",
+      "url": "https://t.co/rW4hNxXFWy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rW4hNxXFWy",
+              "expanded_url": "http://www.youtube.com/c/UvaBack",
+              "display_url": "youtube.com/c/UvaBack",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/8wotKeNFAQ",
+              "expanded_url": "http://discord.gg/k3PXT9g",
+              "display_url": "discord.gg/k3PXT9g",
+              "indices": [
+                34,
+                57
+              ]
+            },
+            {
+              "url": "https://t.co/a7xeB8TWa2",
+              "expanded_url": "http://youtube.com/c/UvaBack",
+              "display_url": "youtube.com/c/UvaBack",
+              "indices": [
+                67,
+                90
+              ]
+            },
+            {
+              "url": "https://t.co/NGUDesLN9b",
+              "expanded_url": "https://www.twitch.tv/uva_back",
+              "display_url": "twitch.tv/uva_back",
+              "indices": [
+                99,
+                122
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 182,
+      "friends_count": 387,
+      "listed_count": 1,
+      "created_at": "Fri Aug 27 09:36:08 +0000 2010",
+      "favourites_count": 1359,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 929,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0A0A00",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1361236557802262536/lS1YzMRr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361236557802262536/lS1YzMRr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/183566529/1587124568",
+      "profile_link_color": "F0000C",
+      "profile_sidebar_border_color": "E00404",
+      "profile_sidebar_fill_color": "147A05",
+      "profile_text_color": "050505",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1408671809088622596,
+    "quoted_status_id_str": "1408671809088622596",
+    "quoted_status": {
+      "created_at": "Sat Jun 26 06:21:45 +0000 2021",
+      "id": 1408671809088622596,
+      "id_str": "1408671809088622596",
+      "text": "(Not my photos) but this was at Coles The Entrance.\n\nBruh.. https://t.co/kPygfS3y0v",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1408671804273532932,
+            "id_str": "1408671804273532932",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4ybiuLVIAQM8DV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4ybiuLVIAQM8DV.jpg",
+            "url": "https://t.co/kPygfS3y0v",
+            "display_url": "pic.twitter.com/kPygfS3y0v",
+            "expanded_url": "https://twitter.com/SJOBrien8906/status/1408671809088622596/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 675,
+                "h": 900,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1408671804273532932,
+            "id_str": "1408671804273532932",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4ybiuLVIAQM8DV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4ybiuLVIAQM8DV.jpg",
+            "url": "https://t.co/kPygfS3y0v",
+            "display_url": "pic.twitter.com/kPygfS3y0v",
+            "expanded_url": "https://twitter.com/SJOBrien8906/status/1408671809088622596/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 675,
+                "h": 900,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1408671807117283329,
+            "id_str": "1408671807117283329",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4ybi4xVUAEGfx5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4ybi4xVUAEGfx5.jpg",
+            "url": "https://t.co/kPygfS3y0v",
+            "display_url": "pic.twitter.com/kPygfS3y0v",
+            "expanded_url": "https://twitter.com/SJOBrien8906/status/1408671809088622596/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 853,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 853,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 525157756,
+        "id_str": "525157756",
+        "name": "\ud835\udd7e\ud835\udd99\ud835\udd8a\ud835\udd95\ud835\udd8d\ud835\udd8a\ud835\udd93 \ud83c\udff4\u200d\u2620\ufe0f",
+        "screen_name": "SJOBrien8906",
+        "location": "Central Coast, NSW ",
+        "description": "@WestsTigers sufferer | Sophia \u2764 | \ud83c\udfae Plays Video Games \ud83c\udfae| Videogame Photographer | @Saints \u269c |",
+        "url": "https://t.co/vZEejLhqTY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vZEejLhqTY",
+                "expanded_url": "http://instagram.com/sjobrien1989",
+                "display_url": "instagram.com/sjobrien1989",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1223,
+        "friends_count": 3658,
+        "listed_count": 37,
+        "created_at": "Thu Mar 15 08:13:31 +0000 2012",
+        "favourites_count": 105497,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 62337,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397844859998769154/7t5beIfb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397844859998769154/7t5beIfb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/525157756/1585381421",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 190,
+      "favorite_count": 648,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 28 09:56:36 +0000 2021",
+    "id": 1409450654070759425,
+    "id_str": "1409450654070759425",
+    "text": "So after visiting #coles today 99% staff in masks I said it's stupid as none wear gloves stacking our items. She sa\u2026 https://t.co/HXHqjTan7g",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "coles",
+          "indices": [
+            18,
+            24
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HXHqjTan7g",
+          "expanded_url": "https://twitter.com/i/web/status/1409450654070759425",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 241394586,
+      "id_str": "241394586",
+      "name": "Gold Coast Strippers",
+      "screen_name": "gcstrippers",
+      "location": "Gold Coast Australia",
+      "description": "Gold Coast Strippers\nAustralia's No.1 In Adult Entertainment call Simon 0433 444757",
+      "url": "https://t.co/Hic0vCnDNj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Hic0vCnDNj",
+              "expanded_url": "http://www.goldcoaststrippers.com",
+              "display_url": "goldcoaststrippers.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 521,
+      "friends_count": 2035,
+      "listed_count": 3,
+      "created_at": "Sat Jan 22 04:31:03 +0000 2011",
+      "favourites_count": 20702,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4269,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1222424743/strippers_border_edit_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222424743/strippers_border_edit_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/241394586/1584866206",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 28 07:11:57 +0000 2021",
+    "id": 1409409216872423426,
+    "id_str": "1409409216872423426",
+    "text": "#Coles Catalogue 30 Jun - 6 Jul 2021\n\nhttps://t.co/twFsMCDTe4\n\n#catalogue #au #grocery #groceryshopping #food\u2026 https://t.co/LmNBIWSbFE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "catalogue",
+          "indices": [
+            63,
+            73
+          ]
+        },
+        {
+          "text": "au",
+          "indices": [
+            74,
+            77
+          ]
+        },
+        {
+          "text": "grocery",
+          "indices": [
+            78,
+            86
+          ]
+        },
+        {
+          "text": "groceryshopping",
+          "indices": [
+            87,
+            103
+          ]
+        },
+        {
+          "text": "food",
+          "indices": [
+            104,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/twFsMCDTe4",
+          "expanded_url": "https://www.catalogueau.com/coles/",
+          "display_url": "catalogueau.com/coles/",
+          "indices": [
+            38,
+            61
+          ]
+        },
+        {
+          "url": "https://t.co/LmNBIWSbFE",
+          "expanded_url": "https://twitter.com/i/web/status/1409409216872423426",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3034980359,
+      "id_str": "3034980359",
+      "name": "Australia Catalogues",
+      "screen_name": "CatalogueAU",
+      "location": "Australia",
+      "description": "Online catalogues of Australian retailers including #Woolworths, #ALDI, #Coles",
+      "url": "https://t.co/KfiO8DD4t0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KfiO8DD4t0",
+              "expanded_url": "https://www.catalogueau.com/",
+              "display_url": "catalogueau.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 91,
+      "friends_count": 74,
+      "listed_count": 0,
+      "created_at": "Fri Feb 13 16:42:24 +0000 2015",
+      "favourites_count": 22,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2411,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/566276617354231809/3ds72s6Q_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/566276617354231809/3ds72s6Q_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3034980359/1423874413",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "fr"
+  },
+  {
+    "created_at": "Mon Jun 28 06:10:03 +0000 2021",
+    "id": 1409393637251813377,
+    "id_str": "1409393637251813377",
+    "text": "Astroglide Glycerin &amp; Paraben Free Personal Lubricant is on special at #Coles Supermarkets\n\nWater based, hypoallerg\u2026 https://t.co/sCrown9i1x",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Coles",
+          "indices": [
+            75,
+            81
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sCrown9i1x",
+          "expanded_url": "https://twitter.com/i/web/status/1409393637251813377",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 42381766,
+      "id_str": "42381766",
+      "name": "Astroglide Australia",
+      "screen_name": "Astroglide_Aust",
+      "location": "Australia",
+      "description": "Lubricating, long-lasting and never sticky, ASTROGLIDE's products are formulated to help you take your sex life to the next level. Made in USA. Free samples.",
+      "url": "https://t.co/78iJmt7ADv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/78iJmt7ADv",
+              "expanded_url": "https://www.astroglideaustralia.com/",
+              "display_url": "astroglideaustralia.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 609,
+      "friends_count": 1023,
+      "listed_count": 67,
+      "created_at": "Mon May 25 09:54:13 +0000 2009",
+      "favourites_count": 7301,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 39470,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8131B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1390872662453358592/AUHVvNFp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390872662453358592/AUHVvNFp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/42381766/1582871278",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

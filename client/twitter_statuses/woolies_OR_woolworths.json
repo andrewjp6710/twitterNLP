@@ -1,0 +1,5232 @@
+[
+  {
+    "created_at": "Sat Jul 03 07:06:35 +0000 2021",
+    "id": 1411219806288683008,
+    "id_str": "1411219806288683008",
+    "text": "Tonight we eat like kings!!   \n\n#BeyondBurgers #HalfOff #Woolies https://t.co/BekFGtMhdP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BeyondBurgers",
+          "indices": [
+            32,
+            46
+          ]
+        },
+        {
+          "text": "HalfOff",
+          "indices": [
+            47,
+            55
+          ]
+        },
+        {
+          "text": "Woolies",
+          "indices": [
+            56,
+            64
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1411219788681007106,
+          "id_str": "1411219788681007106",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5Wo67xVUAI2co7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5Wo67xVUAI2co7.jpg",
+          "url": "https://t.co/BekFGtMhdP",
+          "display_url": "pic.twitter.com/BekFGtMhdP",
+          "expanded_url": "https://twitter.com/murzo_4/status/1411219806288683008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1411219788681007106,
+          "id_str": "1411219788681007106",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5Wo67xVUAI2co7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5Wo67xVUAI2co7.jpg",
+          "url": "https://t.co/BekFGtMhdP",
+          "display_url": "pic.twitter.com/BekFGtMhdP",
+          "expanded_url": "https://twitter.com/murzo_4/status/1411219806288683008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 57306009,
+      "id_str": "57306009",
+      "name": "Battling Lefty",
+      "screen_name": "murzo_4",
+      "location": "Brisbane",
+      "description": "Independent views of a sport & current affairs lover. Cricket, Golf, Richmond, Daughters. Teacher. Trivia Host. Recently accused of being a PGA professional",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 585,
+      "friends_count": 950,
+      "listed_count": 31,
+      "created_at": "Thu Jul 16 11:13:11 +0000 2009",
+      "favourites_count": 10443,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 44484,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1392808168959348744/dTUmVAC9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392808168959348744/dTUmVAC9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/57306009/1620906320",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jul 03 05:20:13 +0000 2021",
+    "id": 1411193038882230284,
+    "id_str": "1411193038882230284",
+    "text": "First it was store policy to wear masks, then it becomes policy to QR code check. What\u2019s next #Woolworths a F***ing\u2026 https://t.co/292jyaxYjM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            94,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/292jyaxYjM",
+          "expanded_url": "https://twitter.com/i/web/status/1411193038882230284",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 75815569,
+      "id_str": "75815569",
+      "name": "IRON-J",
+      "screen_name": "IR0N_J",
+      "location": "Australia",
+      "description": "Just because you are offended, doesn\u2019t mean you\u2019re right.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 59,
+      "friends_count": 90,
+      "listed_count": 1,
+      "created_at": "Sun Sep 20 16:06:20 +0000 2009",
+      "favourites_count": 1668,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2055,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000250508986/534585d0ed2a220bdd34a5dceffa37a0_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000250508986/534585d0ed2a220bdd34a5dceffa37a0_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jul 03 04:26:15 +0000 2021",
+    "id": 1411179458078273539,
+    "id_str": "1411179458078273539",
+    "text": "Are you hungry? Get $100 to Spend on KFC! https://t.co/rUFagiOBJc\n\n#australian #Love #melbourne #sydney #aldi\u2026 https://t.co/5ytYUaFRaS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "australian",
+          "indices": [
+            67,
+            78
+          ]
+        },
+        {
+          "text": "Love",
+          "indices": [
+            79,
+            84
+          ]
+        },
+        {
+          "text": "melbourne",
+          "indices": [
+            85,
+            95
+          ]
+        },
+        {
+          "text": "sydney",
+          "indices": [
+            96,
+            103
+          ]
+        },
+        {
+          "text": "aldi",
+          "indices": [
+            104,
+            109
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rUFagiOBJc",
+          "expanded_url": "https://bit.ly/3d4dTcX",
+          "display_url": "bit.ly/3d4dTcX",
+          "indices": [
+            42,
+            65
+          ]
+        },
+        {
+          "url": "https://t.co/5ytYUaFRaS",
+          "expanded_url": "https://twitter.com/i/web/status/1411179458078273539",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1408333935470288897,
+      "id_str": "1408333935470288897",
+      "name": "Maria Klein",
+      "screen_name": "mariaklein683",
+      "location": "Melbourne, Victoria",
+      "description": "",
+      "url": "https://t.co/5lsQJmDLH6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5lsQJmDLH6",
+              "expanded_url": "https://giftcardwin00.blogspot.com/",
+              "display_url": "giftcardwin00.blogspot.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3,
+      "friends_count": 150,
+      "listed_count": 0,
+      "created_at": "Fri Jun 25 08:07:55 +0000 2021",
+      "favourites_count": 34,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1408638965687545858/P759-RhA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408638965687545858/P759-RhA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408333935470288897/1624680727",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 13:42:44 +0000 2021",
+    "id": 1410957112335867908,
+    "id_str": "1410957112335867908",
+    "text": "RT @correzpond: Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours, antiox\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "correzpond",
+          "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+          "id": 20876638,
+          "id_str": "20876638",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            34,
+            45
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 26630423,
+      "id_str": "26630423",
+      "name": "\ud83d\udca7Linda Teese\ud83c\udf80\ud83d\udd6f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0fshe/her",
+      "screen_name": "teeser",
+      "location": "Byron Bay, New South Wales",
+      "description": "crazy funny loud passionate spiritual loyal protector of human rights and my kids, living on Arakwal Bundjalung land",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1656,
+      "friends_count": 2181,
+      "listed_count": 10,
+      "created_at": "Wed Mar 25 23:47:21 +0000 2009",
+      "favourites_count": 172238,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 59550,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1273574086816362500/gB2FbTnc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273574086816362500/gB2FbTnc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 02 11:24:35 +0000 2021",
+      "id": 1410922343803678721,
+      "id_str": "1410922343803678721",
+      "text": "Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours\u2026 https://t.co/rtjmu7h0rC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "woolworths",
+            "name": "Woolworths",
+            "id": 15590888,
+            "id_str": "15590888",
+            "indices": [
+              18,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rtjmu7h0rC",
+            "expanded_url": "https://twitter.com/i/web/status/1410922343803678721",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20876638,
+        "id_str": "20876638",
+        "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+        "screen_name": "correzpond",
+        "location": "Sydney, New South Wales",
+        "description": "Tweeting from the tip of the iceberg in Sydney. Medical Scientist. LGBTIQ Equality Advocate. For saving the planet & wrecking irresponsible Governments. He/him.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2408,
+        "friends_count": 2428,
+        "listed_count": 51,
+        "created_at": "Sat Feb 14 22:44:06 +0000 2009",
+        "favourites_count": 30890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36258,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20876638/1438477218",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 11:49:14 +0000 2021",
+    "id": 1410928549247082498,
+    "id_str": "1410928549247082498",
+    "text": "@belindasmilne @correzpond @woolworths We had some white bread in the fridge that showed no sign of mould for 9 mon\u2026 https://t.co/QbGRK0yKnZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "belindasmilne",
+          "name": "Belindasmilne",
+          "id": 137287564,
+          "id_str": "137287564",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "correzpond",
+          "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+          "id": 20876638,
+          "id_str": "20876638",
+          "indices": [
+            15,
+            26
+          ]
+        },
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            27,
+            38
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QbGRK0yKnZ",
+          "expanded_url": "https://twitter.com/i/web/status/1410928549247082498",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1410926994083127301,
+    "in_reply_to_status_id_str": "1410926994083127301",
+    "in_reply_to_user_id": 137287564,
+    "in_reply_to_user_id_str": "137287564",
+    "in_reply_to_screen_name": "belindasmilne",
+    "user": {
+      "id": 805005774074232832,
+      "id_str": "805005774074232832",
+      "name": "HolaMochti ( pronombres \u00e9l + es)",
+      "screen_name": "MoctezumaElLoco",
+      "location": "Cuidad de Mexico de Brisbane",
+      "description": "Buscando activar un volc\u00e1n, con suerte en un vecindario cercano a usted\nEspanol+Francais+Ingles\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udde7\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddf2\ud83c\uddfd\ud83c\udde8\ud83c\uddf4",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 872,
+      "friends_count": 2268,
+      "listed_count": 5,
+      "created_at": "Sat Dec 03 11:08:27 +0000 2016",
+      "favourites_count": 50681,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36985,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1386262399620026370/fmkmm5_8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386262399620026370/fmkmm5_8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/805005774074232832/1619345687",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 11:29:39 +0000 2021",
+    "id": 1410923619681587203,
+    "id_str": "1410923619681587203",
+    "text": "RT @correzpond: Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours, antiox\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "correzpond",
+          "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+          "id": 20876638,
+          "id_str": "20876638",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            34,
+            45
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 21473992,
+      "id_str": "21473992",
+      "name": "anna-lise",
+      "screen_name": "annalise108",
+      "location": "Melbourne, Australia",
+      "description": "Dormant inner activist has been reawakened by sheer incompetence of current govt; quasi vegetarian; dweller of the north; mid-century modern is the future",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 531,
+      "friends_count": 1119,
+      "listed_count": 21,
+      "created_at": "Sat Feb 21 09:35:38 +0000 2009",
+      "favourites_count": 2947,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 34220,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/80979185/CAGHELB4_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/80979185/CAGHELB4_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21473992/1429348550",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 02 11:24:35 +0000 2021",
+      "id": 1410922343803678721,
+      "id_str": "1410922343803678721",
+      "text": "Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours\u2026 https://t.co/rtjmu7h0rC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "woolworths",
+            "name": "Woolworths",
+            "id": 15590888,
+            "id_str": "15590888",
+            "indices": [
+              18,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rtjmu7h0rC",
+            "expanded_url": "https://twitter.com/i/web/status/1410922343803678721",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20876638,
+        "id_str": "20876638",
+        "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+        "screen_name": "correzpond",
+        "location": "Sydney, New South Wales",
+        "description": "Tweeting from the tip of the iceberg in Sydney. Medical Scientist. LGBTIQ Equality Advocate. For saving the planet & wrecking irresponsible Governments. He/him.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2408,
+        "friends_count": 2428,
+        "listed_count": 51,
+        "created_at": "Sat Feb 14 22:44:06 +0000 2009",
+        "favourites_count": 30890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36258,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20876638/1438477218",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 11:28:16 +0000 2021",
+    "id": 1410923272896532491,
+    "id_str": "1410923272896532491",
+    "text": "RT @correzpond: Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours, antiox\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "correzpond",
+          "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+          "id": 20876638,
+          "id_str": "20876638",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            34,
+            45
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2881955916,
+      "id_str": "2881955916",
+      "name": "Andrew O",
+      "screen_name": "pandamanracing",
+      "location": "Melbourne",
+      "description": "A parody of myself. Long suffering Melbourne supporter.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1262,
+      "friends_count": 1316,
+      "listed_count": 14,
+      "created_at": "Wed Oct 29 11:25:38 +0000 2014",
+      "favourites_count": 35706,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13899,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1408987468775440390/kJSogUw5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408987468775440390/kJSogUw5_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 02 11:24:35 +0000 2021",
+      "id": 1410922343803678721,
+      "id_str": "1410922343803678721",
+      "text": "Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours\u2026 https://t.co/rtjmu7h0rC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "woolworths",
+            "name": "Woolworths",
+            "id": 15590888,
+            "id_str": "15590888",
+            "indices": [
+              18,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rtjmu7h0rC",
+            "expanded_url": "https://twitter.com/i/web/status/1410922343803678721",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20876638,
+        "id_str": "20876638",
+        "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+        "screen_name": "correzpond",
+        "location": "Sydney, New South Wales",
+        "description": "Tweeting from the tip of the iceberg in Sydney. Medical Scientist. LGBTIQ Equality Advocate. For saving the planet & wrecking irresponsible Governments. He/him.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2408,
+        "friends_count": 2428,
+        "listed_count": 51,
+        "created_at": "Sat Feb 14 22:44:06 +0000 2009",
+        "favourites_count": 30890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36258,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20876638/1438477218",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 11:25:05 +0000 2021",
+    "id": 1410922470165553153,
+    "id_str": "1410922470165553153",
+    "text": "RT @correzpond: Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours, antiox\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "correzpond",
+          "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+          "id": 20876638,
+          "id_str": "20876638",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            34,
+            45
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 805005774074232832,
+      "id_str": "805005774074232832",
+      "name": "HolaMochti ( pronombres \u00e9l + es)",
+      "screen_name": "MoctezumaElLoco",
+      "location": "Cuidad de Mexico de Brisbane",
+      "description": "Buscando activar un volc\u00e1n, con suerte en un vecindario cercano a usted\nEspanol+Francais+Ingles\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udde7\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7\ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddf2\ud83c\uddfd\ud83c\udde8\ud83c\uddf4",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 872,
+      "friends_count": 2268,
+      "listed_count": 5,
+      "created_at": "Sat Dec 03 11:08:27 +0000 2016",
+      "favourites_count": 50681,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36985,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1386262399620026370/fmkmm5_8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386262399620026370/fmkmm5_8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/805005774074232832/1619345687",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 02 11:24:35 +0000 2021",
+      "id": 1410922343803678721,
+      "id_str": "1410922343803678721",
+      "text": "Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours\u2026 https://t.co/rtjmu7h0rC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "woolworths",
+            "name": "Woolworths",
+            "id": 15590888,
+            "id_str": "15590888",
+            "indices": [
+              18,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rtjmu7h0rC",
+            "expanded_url": "https://twitter.com/i/web/status/1410922343803678721",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20876638,
+        "id_str": "20876638",
+        "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+        "screen_name": "correzpond",
+        "location": "Sydney, New South Wales",
+        "description": "Tweeting from the tip of the iceberg in Sydney. Medical Scientist. LGBTIQ Equality Advocate. For saving the planet & wrecking irresponsible Governments. He/him.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2408,
+        "friends_count": 2428,
+        "listed_count": 51,
+        "created_at": "Sat Feb 14 22:44:06 +0000 2009",
+        "favourites_count": 30890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36258,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20876638/1438477218",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 11:24:35 +0000 2021",
+    "id": 1410922343803678721,
+    "id_str": "1410922343803678721",
+    "text": "Still waiting for @woolworths to identify the \u2018home\u2019 which uses margarine, palm oil, emulsifiers, colours, flavours\u2026 https://t.co/rtjmu7h0rC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            18,
+            29
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rtjmu7h0rC",
+          "expanded_url": "https://twitter.com/i/web/status/1410922343803678721",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20876638,
+      "id_str": "20876638",
+      "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+      "screen_name": "correzpond",
+      "location": "Sydney, New South Wales",
+      "description": "Tweeting from the tip of the iceberg in Sydney. Medical Scientist. LGBTIQ Equality Advocate. For saving the planet & wrecking irresponsible Governments. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2408,
+      "friends_count": 2428,
+      "listed_count": 51,
+      "created_at": "Sat Feb 14 22:44:06 +0000 2009",
+      "favourites_count": 30890,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36258,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20876638/1438477218",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 08:38:02 +0000 2021",
+    "id": 1410880431428231168,
+    "id_str": "1410880431428231168",
+    "text": "Woolworths is looking for passionate, committed apprentices to join them in 2021. Apply today -\u2026 https://t.co/al5oXtILee",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/al5oXtILee",
+          "expanded_url": "https://twitter.com/i/web/status/1410880431428231168",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2311183987,
+      "id_str": "2311183987",
+      "name": "Tradeswomen Australia",
+      "screen_name": "tradeswomen_aus",
+      "location": "Victoria, Australia",
+      "description": "Increasing participation in trades through apprenticeship pathways\ud83d\ude00",
+      "url": "https://t.co/URuk9HttzU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/URuk9HttzU",
+              "expanded_url": "http://www.tradeswomenaustralia.com.au",
+              "display_url": "tradeswomenaustralia.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 513,
+      "friends_count": 868,
+      "listed_count": 3,
+      "created_at": "Sun Jan 26 04:32:00 +0000 2014",
+      "favourites_count": 77,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 162,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E1E4E6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1333278891801071616/LFCiDmHr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333278891801071616/LFCiDmHr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2311183987/1618372590",
+      "profile_link_color": "D63E8F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 08:30:59 +0000 2021",
+    "id": 1410878659720663040,
+    "id_str": "1410878659720663040",
+    "text": "RT @PakistanAus: Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian supermarket c\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PakistanAus",
+          "name": "Made in Pakistan for Australia",
+          "id": 1410112019005546497,
+          "id_str": "1410112019005546497",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 944875949941649409,
+      "id_str": "944875949941649409",
+      "name": "Rehan",
+      "screen_name": "Chaserholic",
+      "location": "Melbourne, Victoria",
+      "description": "Speaking my mind here..!! no Agenda other than humanity...",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 148,
+      "friends_count": 1496,
+      "listed_count": 1,
+      "created_at": "Sun Dec 24 10:22:36 +0000 2017",
+      "favourites_count": 27719,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14105,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1224971476991795200/akLVA99i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224971476991795200/akLVA99i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/944875949941649409/1544555886",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+      "id": 1410745192110456834,
+      "id_str": "1410745192110456834",
+      "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3jkdmjqdL8",
+            "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1410112019005546497,
+        "id_str": "1410112019005546497",
+        "name": "Made in Pakistan for Australia",
+        "screen_name": "PakistanAus",
+        "location": "Sydney, Australia",
+        "description": "Promoting products that have been made in Pakistan for Australia.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 08:11:06 +0000 2021",
+    "id": 1410873654188052483,
+    "id_str": "1410873654188052483",
+    "text": "Woolworths provides perfect example of why you can't ignore stakeholders https://t.co/ydCA6ZL84S #woolworths",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "woolworths",
+          "indices": [
+            97,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ydCA6ZL84S",
+          "expanded_url": "https://www.smartcompany.com.au/marketing/public-relations/woolworths-stakeholders-engagement-dan-murphys/",
+          "display_url": "smartcompany.com.au/marketing/publ\u2026",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23389125,
+      "id_str": "23389125",
+      "name": "Jamie Bunn .COACH",
+      "screen_name": "jamiebunn",
+      "location": "Melbourne",
+      "description": "Helping CEOs, Founders & Senior Leaders for 20 years.\nOne of Australia's Most Recommended & Experienced #Leadership, #Performance + #BusinessPivot #Coach.",
+      "url": "https://t.co/fMA7Gl9EBA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fMA7Gl9EBA",
+              "expanded_url": "http://jamiebunn.coach",
+              "display_url": "jamiebunn.coach",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2011,
+      "friends_count": 261,
+      "listed_count": 18,
+      "created_at": "Mon Mar 09 02:18:09 +0000 2009",
+      "favourites_count": 435,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8829,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1320574916177977344/KpyAPu4Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320574916177977344/KpyAPu4Y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23389125/1603684571",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 06:44:25 +0000 2021",
+    "id": 1410851839877300225,
+    "id_str": "1410851839877300225",
+    "text": "SmartCompany: Woolworths had planned to build a Dan Murphy\u2019s within walking distance of three \u201cdry\u201d communities, fa\u2026 https://t.co/3h4An5jckq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3h4An5jckq",
+          "expanded_url": "https://twitter.com/i/web/status/1410851839877300225",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 725819820847980544,
+      "id_str": "725819820847980544",
+      "name": "Startup Soda",
+      "screen_name": "startupsoda",
+      "location": "Australia",
+      "description": "#StartupSoda - A daily hand curated email of the best news, blog posts and tactical resources from Australian #Startups, #Founders & #VC's. #startupaus",
+      "url": "https://t.co/aszN58uFdz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/aszN58uFdz",
+              "expanded_url": "http://www.startupsoda.com.au/",
+              "display_url": "startupsoda.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2389,
+      "friends_count": 2758,
+      "listed_count": 224,
+      "created_at": "Thu Apr 28 22:51:45 +0000 2016",
+      "favourites_count": 65,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 32572,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/726295476270567424/PEtDBwOj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/726295476270567424/PEtDBwOj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/725819820847980544/1461996893",
+      "profile_link_color": "041E30",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 06:01:01 +0000 2021",
+    "id": 1410840917846773761,
+    "id_str": "1410840917846773761",
+    "text": "Woolworths had planned to build a Dan Murphy\u2019s within walking distance of three \u201cdry\u201d communities, failing a basic\u2026 https://t.co/qFPH29AQxD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qFPH29AQxD",
+          "expanded_url": "https://twitter.com/i/web/status/1410840917846773761",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15942137,
+      "id_str": "15942137",
+      "name": "SmartCompany",
+      "screen_name": "SmartCompany",
+      "location": "Melbourne, Australia",
+      "description": "The voice of Australian entrepreneurship. Tips: news@smartcompany.com.au. Our editors: @ellykeating, @pwbrescia, @JournoStef, @LoisMaskiell & @sophievenz.",
+      "url": "https://t.co/hEZLv5vBvj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hEZLv5vBvj",
+              "expanded_url": "https://www.smartcompany.com.au/",
+              "display_url": "smartcompany.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 48576,
+      "friends_count": 19294,
+      "listed_count": 1273,
+      "created_at": "Fri Aug 22 06:26:46 +0000 2008",
+      "favourites_count": 2391,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 54918,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D8D8D8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1224144863907573760/QhZ5ffgZ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224144863907573760/QhZ5ffgZ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15942137/1606279221",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "CCF3FF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 04:23:12 +0000 2021",
+    "id": 1410816301769973761,
+    "id_str": "1410816301769973761",
+    "text": "RT @PakistanAus: Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian supermarket c\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PakistanAus",
+          "name": "Made in Pakistan for Australia",
+          "id": 1410112019005546497,
+          "id_str": "1410112019005546497",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 620554367,
+      "id_str": "620554367",
+      "name": "Sada-e-Watan Sydney",
+      "screen_name": "Syedsadawatan",
+      "location": "Sydney NSW",
+      "description": "Sada-e-Watan Sydney is a Leading Australian Pakistani Newspaper.Sada-e- Watan is Serving the Community since 1993.\nChief Editor;Syed Zafar Hussain",
+      "url": "https://t.co/CAvkpm3SZE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/CAvkpm3SZE",
+              "expanded_url": "http://www.sadaewatansydney.com",
+              "display_url": "sadaewatansydney.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 171,
+      "friends_count": 5,
+      "listed_count": 0,
+      "created_at": "Thu Jun 28 02:27:04 +0000 2012",
+      "favourites_count": 6730,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5441,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1177850468057284610/4gNC4W2L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177850468057284610/4gNC4W2L_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+      "id": 1410745192110456834,
+      "id_str": "1410745192110456834",
+      "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3jkdmjqdL8",
+            "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1410112019005546497,
+        "id_str": "1410112019005546497",
+        "name": "Made in Pakistan for Australia",
+        "screen_name": "PakistanAus",
+        "location": "Sydney, Australia",
+        "description": "Promoting products that have been made in Pakistan for Australia.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 00:51:37 +0000 2021",
+    "id": 1410763054468370432,
+    "id_str": "1410763054468370432",
+    "text": "RT @PakistanAus: Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian supermarket c\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PakistanAus",
+          "name": "Made in Pakistan for Australia",
+          "id": 1410112019005546497,
+          "id_str": "1410112019005546497",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1498733414,
+      "id_str": "1498733414",
+      "name": "ALI",
+      "screen_name": "Anserali1922",
+      "location": "Australia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 264,
+      "friends_count": 674,
+      "listed_count": 1,
+      "created_at": "Mon Jun 10 16:38:01 +0000 2013",
+      "favourites_count": 47743,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 57962,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1161838887074877445/ac1AJFyh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161838887074877445/ac1AJFyh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498733414/1565337717",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+      "id": 1410745192110456834,
+      "id_str": "1410745192110456834",
+      "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3jkdmjqdL8",
+            "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1410112019005546497,
+        "id_str": "1410112019005546497",
+        "name": "Made in Pakistan for Australia",
+        "screen_name": "PakistanAus",
+        "location": "Sydney, Australia",
+        "description": "Promoting products that have been made in Pakistan for Australia.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 00:45:54 +0000 2021",
+    "id": 1410761613594959873,
+    "id_str": "1410761613594959873",
+    "text": "RT @PakistanAus: Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian supermarket c\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PakistanAus",
+          "name": "Made in Pakistan for Australia",
+          "id": 1410112019005546497,
+          "id_str": "1410112019005546497",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 452755997,
+      "id_str": "452755997",
+      "name": "Bashir Malik",
+      "screen_name": "bashirmalikc",
+      "location": "Sydney, New South Wales",
+      "description": "Founder, WAVE Australia (registerd charity)\n#WAVEozi #Water #Education #Womens\n#Empowerment\n#wheelchairs",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 77,
+      "friends_count": 52,
+      "listed_count": 0,
+      "created_at": "Mon Jan 02 06:20:57 +0000 2012",
+      "favourites_count": 2886,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1046,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1372133927964401674/6xZ81I0M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372133927964401674/6xZ81I0M_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+      "id": 1410745192110456834,
+      "id_str": "1410745192110456834",
+      "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3jkdmjqdL8",
+            "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1410112019005546497,
+        "id_str": "1410112019005546497",
+        "name": "Made in Pakistan for Australia",
+        "screen_name": "PakistanAus",
+        "location": "Sydney, Australia",
+        "description": "Promoting products that have been made in Pakistan for Australia.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 02 00:32:46 +0000 2021",
+    "id": 1410758311117426693,
+    "id_str": "1410758311117426693",
+    "text": "RT @PakistanAus: Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian supermarket c\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PakistanAus",
+          "name": "Made in Pakistan for Australia",
+          "id": 1410112019005546497,
+          "id_str": "1410112019005546497",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3763362146,
+      "id_str": "3763362146",
+      "name": "Pakistan Consulate General Sydney",
+      "screen_name": "PakinSydney_",
+      "location": "Australia",
+      "description": "The Official Twitter Handle of the CGPS",
+      "url": "https://t.co/KDOvrm7AOZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KDOvrm7AOZ",
+              "expanded_url": "http://pakconsulate.org.au",
+              "display_url": "pakconsulate.org.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2486,
+      "friends_count": 479,
+      "listed_count": 21,
+      "created_at": "Fri Oct 02 22:10:17 +0000 2015",
+      "favourites_count": 3468,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2730,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1348387845703041025/JsBNxwWd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348387845703041025/JsBNxwWd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3763362146/1610061948",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+      "id": 1410745192110456834,
+      "id_str": "1410745192110456834",
+      "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3jkdmjqdL8",
+            "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1410112019005546497,
+        "id_str": "1410112019005546497",
+        "name": "Made in Pakistan for Australia",
+        "screen_name": "PakistanAus",
+        "location": "Sydney, Australia",
+        "description": "Promoting products that have been made in Pakistan for Australia.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 23:52:57 +0000 2021",
+    "id": 1410748291436859397,
+    "id_str": "1410748291436859397",
+    "text": "RT @PakistanAus: Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian supermarket c\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PakistanAus",
+          "name": "Made in Pakistan for Australia",
+          "id": 1410112019005546497,
+          "id_str": "1410112019005546497",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 835792684597927936,
+      "id_str": "835792684597927936",
+      "name": "M Mahtab Sundrana",
+      "screen_name": "Mahtab_sundrana",
+      "location": "St Albans, Melbourne",
+      "description": "\ud83c\uddf5\ud83c\uddf0 Proud to be Muslim and Pakistani \ud83c\uddf5\ud83c\uddf0",
+      "url": "https://t.co/lRy1qxDA2v",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lRy1qxDA2v",
+              "expanded_url": "http://www.instagram.com/malik_mahtab_sundrana",
+              "display_url": "instagram.com/malik_mahtab_s\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 77,
+      "friends_count": 1330,
+      "listed_count": 0,
+      "created_at": "Sun Feb 26 10:04:39 +0000 2017",
+      "favourites_count": 3519,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2777,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1392086184415830018/sEw_2OsJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392086184415830018/sEw_2OsJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/835792684597927936/1620820520",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+      "id": 1410745192110456834,
+      "id_str": "1410745192110456834",
+      "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              75,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3jkdmjqdL8",
+            "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1410112019005546497,
+        "id_str": "1410112019005546497",
+        "name": "Made in Pakistan for Australia",
+        "screen_name": "PakistanAus",
+        "location": "Sydney, Australia",
+        "description": "Promoting products that have been made in Pakistan for Australia.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 23:40:38 +0000 2021",
+    "id": 1410745192110456834,
+    "id_str": "1410745192110456834",
+    "text": "Pakistani Basmati - the quality and aroma the world trusts. Pak basmati at #Woolworths, a leading Australian superm\u2026 https://t.co/3jkdmjqdL8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            75,
+            86
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3jkdmjqdL8",
+          "expanded_url": "https://twitter.com/i/web/status/1410745192110456834",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1410112019005546497,
+      "id_str": "1410112019005546497",
+      "name": "Made in Pakistan for Australia",
+      "screen_name": "PakistanAus",
+      "location": "Sydney, Australia",
+      "description": "Promoting products that have been made in Pakistan for Australia.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 34,
+      "friends_count": 9,
+      "listed_count": 0,
+      "created_at": "Wed Jun 30 05:46:48 +0000 2021",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410113420611907585/NDoAbul6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410112019005546497/1625032672",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 107,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 23:17:28 +0000 2021",
+    "id": 1410739361377783812,
+    "id_str": "1410739361377783812",
+    "text": "So @woolworths please identify the \u2018home\u2019 in which margarine (arguably the largest contributor to #MacularDisease i\u2026 https://t.co/2pexz4pm1i",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MacularDisease",
+          "indices": [
+            98,
+            113
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2pexz4pm1i",
+          "expanded_url": "https://twitter.com/i/web/status/1410739361377783812",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20876638,
+      "id_str": "20876638",
+      "name": "\ud835\udd54\ud835\udd60\ud835\udd63\ud835\udd63\ud835\udd56\ud835\udd6b\ud835\udd61\ud835\udd60\ud835\udd5f\ud835\udd55 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83d\ude37",
+      "screen_name": "correzpond",
+      "location": "Sydney, New South Wales",
+      "description": "Tweeting from the tip of the iceberg in Sydney. Medical Scientist. LGBTIQ Equality Advocate. For saving the planet & wrecking irresponsible Governments. He/him.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2408,
+      "friends_count": 2428,
+      "listed_count": 51,
+      "created_at": "Sat Feb 14 22:44:06 +0000 2009",
+      "favourites_count": 30890,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36258,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177041595436191744/OZJNYvrJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20876638/1438477218",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 05:57:25 +0000 2021",
+    "id": 1410477623633801221,
+    "id_str": "1410477623633801221",
+    "text": "Hardly worthy of a push notification @Woolworths, especially when your staff often don\u2019t do the wrong thing and avo\u2026 https://t.co/Neq6qR0ybN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            37,
+            48
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Neq6qR0ybN",
+          "expanded_url": "https://twitter.com/i/web/status/1410477623633801221",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1394074124738203652,
+      "id_str": "1394074124738203652",
+      "name": "Just Browsing",
+      "screen_name": "JustHavingAGeez",
+      "location": "Sydney, New South Wales",
+      "description": "I lurk.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 147,
+      "listed_count": 0,
+      "created_at": "Sun May 16 23:35:54 +0000 2021",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 144,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1398231109679214594/2rXuuhHn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398231109679214594/2rXuuhHn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394074124738203652/1622199262",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 02:24:13 +0000 2021",
+    "id": 1410423968633278466,
+    "id_str": "1410423968633278466",
+    "text": "Pop by your local @woolworths and pick up a NAIDOC poster today! #NAIDOC2021 #Woolworths #CareForCountry https://t.co/QdBewjZKn5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NAIDOC2021",
+          "indices": [
+            65,
+            76
+          ]
+        },
+        {
+          "text": "Woolworths",
+          "indices": [
+            77,
+            88
+          ]
+        },
+        {
+          "text": "CareForCountry",
+          "indices": [
+            89,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "woolworths",
+          "name": "Woolworths",
+          "id": 15590888,
+          "id_str": "15590888",
+          "indices": [
+            18,
+            29
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QdBewjZKn5",
+          "expanded_url": "https://twitter.com/kenwyattmp/status/1410423107769180162",
+          "display_url": "twitter.com/kenwyattmp/sta\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 539067467,
+      "id_str": "539067467",
+      "name": "Mitch",
+      "screen_name": "mdahls10",
+      "location": "Canberra, ACT Australia",
+      "description": "\ud83c\udfe0 Moree, NSW.\ud83d\udccdCanberra, ACT. Gamilaraay. Fmr Pride of Australia Medal Young Leader NSW/ACT. Views are my own!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 452,
+      "friends_count": 2025,
+      "listed_count": 3,
+      "created_at": "Wed Mar 28 13:59:06 +0000 2012",
+      "favourites_count": 503,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 448,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "59472F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024632137683623938/-5RTzSD8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024632137683623938/-5RTzSD8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/539067467/1529504640",
+      "profile_link_color": "52555C",
+      "profile_sidebar_border_color": "000515",
+      "profile_sidebar_fill_color": "061127",
+      "profile_text_color": "827972",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1410423107769180162,
+    "quoted_status_id_str": "1410423107769180162",
+    "quoted_status": {
+      "created_at": "Thu Jul 01 02:20:47 +0000 2021",
+      "id": 1410423107769180162,
+      "id_str": "1410423107769180162",
+      "text": "The 2021 National NAIDOC Poster, \u2018Care for Country\u2019 by Gubbi Gubbi artist Maggie-Jean Douglas, is now available fro\u2026 https://t.co/RGm7HijARu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RGm7HijARu",
+            "expanded_url": "https://twitter.com/i/web/status/1410423107769180162",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 196039332,
+        "id_str": "196039332",
+        "name": "Ken Wyatt",
+        "screen_name": "KenWyattMP",
+        "location": "Authorised by Ken Wyatt, Perth",
+        "description": "Federal Member for Hasluck & Minister for Indigenous Australians. Sign up for latest news & information - https://t.co/6Aw1N9ufvg",
+        "url": "https://t.co/76yXL2B24y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/76yXL2B24y",
+                "expanded_url": "http://www.kenwyatt.com.au",
+                "display_url": "kenwyatt.com.au",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/6Aw1N9ufvg",
+                "expanded_url": "https://confirmsubscription.com/h/t/A3B261F365D60B14",
+                "display_url": "confirmsubscription.com/h/t/A3B261F365\u2026",
+                "indices": [
+                  106,
+                  129
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 22187,
+        "friends_count": 3310,
+        "listed_count": 451,
+        "created_at": "Tue Sep 28 05:00:34 +0000 2010",
+        "favourites_count": 3204,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6454,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "57A0D3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248051530701213696/SN2DCb5Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248051530701213696/SN2DCb5Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196039332/1606172014",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 23:24:27 +0000 2021",
+    "id": 1410378730455769088,
+    "id_str": "1410378730455769088",
+    "text": "RT @ProfConsumers: The end of panic buying? Nope. My comments @RuthHogan2 @InsideRetailau\n\n#Woolworths CEO a \u201cprimordial urge to pantry sto\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            91,
+            102
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ProfConsumers",
+          "name": "Associate Professor Jana Bowden",
+          "id": 1225602448514936832,
+          "id_str": "1225602448514936832",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "RuthHogan2",
+          "name": "Ruth Hogan",
+          "id": 355818322,
+          "id_str": "355818322",
+          "indices": [
+            62,
+            73
+          ]
+        },
+        {
+          "screen_name": "InsideRetailau",
+          "name": "Inside Retail Australia",
+          "id": 34130915,
+          "id_str": "34130915",
+          "indices": [
+            74,
+            89
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 34464407,
+      "id_str": "34464407",
+      "name": "Macquarie University",
+      "screen_name": "Macquarie_Uni",
+      "location": "North Ryde, Sydney, Australia",
+      "description": "Macquarie is renowned for its interdisciplinary research and teaching, highly skilled graduates and first-class facilities. CRICOS code: 00002J",
+      "url": "https://t.co/XjcJealmwX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/XjcJealmwX",
+              "expanded_url": "http://www.mq.edu.au",
+              "display_url": "mq.edu.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 31284,
+      "friends_count": 587,
+      "listed_count": 404,
+      "created_at": "Thu Apr 23 00:39:20 +0000 2009",
+      "favourites_count": 3031,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 9642,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EFEDE7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/577248626126114816/aro_NFSA_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/577248626126114816/aro_NFSA_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/34464407/1600989977",
+      "profile_link_color": "A61F38",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "231F20",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 30 22:43:14 +0000 2021",
+      "id": 1410368357753184258,
+      "id_str": "1410368357753184258",
+      "text": "The end of panic buying? Nope. My comments @RuthHogan2 @InsideRetailau\n\n#Woolworths CEO a \u201cprimordial urge to pantr\u2026 https://t.co/ZEJEQuhV7K",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Woolworths",
+            "indices": [
+              72,
+              83
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RuthHogan2",
+            "name": "Ruth Hogan",
+            "id": 355818322,
+            "id_str": "355818322",
+            "indices": [
+              43,
+              54
+            ]
+          },
+          {
+            "screen_name": "InsideRetailau",
+            "name": "Inside Retail Australia",
+            "id": 34130915,
+            "id_str": "34130915",
+            "indices": [
+              55,
+              70
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZEJEQuhV7K",
+            "expanded_url": "https://twitter.com/i/web/status/1410368357753184258",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1225602448514936832,
+        "id_str": "1225602448514936832",
+        "name": "Associate Professor Jana Bowden",
+        "screen_name": "ProfConsumers",
+        "location": "Macquarie University Australia",
+        "description": "MQ Assoc. Professor Marketing | Consumer Psychologist & Behaviour Researcher, Stanford U top 2% | Media Commentator | Columnist @InsideRetail | Consultant | Mum",
+        "url": "https://t.co/1G5pXVfBlH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1G5pXVfBlH",
+                "expanded_url": "https://researchers.mq.edu.au/en/persons/jana-bowden",
+                "display_url": "researchers.mq.edu.au/en/persons/jan\u2026",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 680,
+        "friends_count": 1514,
+        "listed_count": 3,
+        "created_at": "Fri Feb 07 02:09:38 +0000 2020",
+        "favourites_count": 7093,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1792,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369077594629414915/tHdd5BbD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369077594629414915/tHdd5BbD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225602448514936832/1581046482",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 22:43:14 +0000 2021",
+    "id": 1410368357753184258,
+    "id_str": "1410368357753184258",
+    "text": "The end of panic buying? Nope. My comments @RuthHogan2 @InsideRetailau\n\n#Woolworths CEO a \u201cprimordial urge to pantr\u2026 https://t.co/ZEJEQuhV7K",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            72,
+            83
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "RuthHogan2",
+          "name": "Ruth Hogan",
+          "id": 355818322,
+          "id_str": "355818322",
+          "indices": [
+            43,
+            54
+          ]
+        },
+        {
+          "screen_name": "InsideRetailau",
+          "name": "Inside Retail Australia",
+          "id": 34130915,
+          "id_str": "34130915",
+          "indices": [
+            55,
+            70
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZEJEQuhV7K",
+          "expanded_url": "https://twitter.com/i/web/status/1410368357753184258",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1225602448514936832,
+      "id_str": "1225602448514936832",
+      "name": "Associate Professor Jana Bowden",
+      "screen_name": "ProfConsumers",
+      "location": "Macquarie University Australia",
+      "description": "MQ Assoc. Professor Marketing | Consumer Psychologist & Behaviour Researcher, Stanford U top 2% | Media Commentator | Columnist @InsideRetail | Consultant | Mum",
+      "url": "https://t.co/1G5pXVfBlH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/1G5pXVfBlH",
+              "expanded_url": "https://researchers.mq.edu.au/en/persons/jana-bowden",
+              "display_url": "researchers.mq.edu.au/en/persons/jan\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 680,
+      "friends_count": 1514,
+      "listed_count": 3,
+      "created_at": "Fri Feb 07 02:09:38 +0000 2020",
+      "favourites_count": 7093,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1792,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369077594629414915/tHdd5BbD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369077594629414915/tHdd5BbD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225602448514936832/1581046482",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 12:16:10 +0000 2021",
+    "id": 1410210549997006853,
+    "id_str": "1410210549997006853",
+    "text": "#NSW SA\u011eLIK YETK\u0130L\u0130LER\u0130 HALK SA\u011eLI\u011eI UYARISI YAYINLADI \n#Auburn Central Pharmacy - Chickens- #Woolworths L\u0130STEDE.\u2026 https://t.co/WHc1lSAInU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NSW",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "Auburn",
+          "indices": [
+            56,
+            63
+          ]
+        },
+        {
+          "text": "Woolworths",
+          "indices": [
+            93,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WHc1lSAInU",
+          "expanded_url": "https://twitter.com/i/web/status/1410210549997006853",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "tr"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 724552290590294016,
+      "id_str": "724552290590294016",
+      "name": "Mustafa YILMAZ",
+      "screen_name": "MylmzAustralia",
+      "location": "Victoria, Australia",
+      "description": "Australia @DunyaNewspaper Director - Journalist - Teacher- \ud83c\udde6\ud83c\uddfa face/agency82/",
+      "url": "https://t.co/I166rrZKEU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/I166rrZKEU",
+              "expanded_url": "http://www.dunya.com.au",
+              "display_url": "dunya.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 174,
+      "friends_count": 1838,
+      "listed_count": 1,
+      "created_at": "Mon Apr 25 10:55:02 +0000 2016",
+      "favourites_count": 55,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2092,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097702764472197120/pPSV1hkS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097702764472197120/pPSV1hkS_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+  },
+  {
+    "created_at": "Wed Jun 30 07:04:05 +0000 2021",
+    "id": 1410132013407821827,
+    "id_str": "1410132013407821827",
+    "text": "It's really interesting looking at how #Woolworths tracks your shopping and what the algorithm does both to encoura\u2026 https://t.co/w4Sg2IVAR5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            39,
+            50
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/w4Sg2IVAR5",
+          "expanded_url": "https://twitter.com/i/web/status/1410132013407821827",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 25951649,
+      "id_str": "25951649",
+      "name": "Jason Andrade",
+      "screen_name": "jasonandrade",
+      "location": "Wollongong, Australia",
+      "description": "Research IT Infrastructure Consultant - helping Aussie researchers to solve all kinds of problems using data/compute/network.  Living on Dharawal land.",
+      "url": "http://t.co/ZEIdUlHaVB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ZEIdUlHaVB",
+              "expanded_url": "http://rtfmconsult.com",
+              "display_url": "rtfmconsult.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 389,
+      "friends_count": 335,
+      "listed_count": 4,
+      "created_at": "Mon Mar 23 04:19:52 +0000 2009",
+      "favourites_count": 64358,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12593,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/365569278/selfphoto_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/365569278/selfphoto_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 06:10:32 +0000 2021",
+    "id": 1410118534743527428,
+    "id_str": "1410118534743527428",
+    "text": "#Woolworths Just spent time doing weekly order Woolies with things unavailable then find direct to boot pickup not\u2026 https://t.co/5m7YKa2wGS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5m7YKa2wGS",
+          "expanded_url": "https://twitter.com/i/web/status/1410118534743527428",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1067710634601590784,
+      "id_str": "1067710634601590784",
+      "name": "Marie Calais\ud83c\udf80\ud83c\udf80",
+      "screen_name": "MarieCalais2",
+      "location": "Sunshine Coast, Queensland",
+      "description": "Loves gardening, word games, Paint Shop Pro.   Wants to see more action on Climate Change & help to refugees.  #ArtDeco #ArtNoveau",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 346,
+      "friends_count": 374,
+      "listed_count": 1,
+      "created_at": "Wed Nov 28 09:23:47 +0000 2018",
+      "favourites_count": 28849,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7088,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1124182500102696960/bzYx0gMA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124182500102696960/bzYx0gMA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067710634601590784/1556886101",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 03:18:23 +0000 2021",
+    "id": 1410075212289253383,
+    "id_str": "1410075212289253383",
+    "text": "Our CEO, @CraigFlanders, looks at the rise of member-only hypermarket across Asia and asks if the same format could\u2026 https://t.co/347ReyOdeE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CraigFlanders",
+          "name": "Craig Flanders",
+          "id": 308875659,
+          "id_str": "308875659",
+          "indices": [
+            9,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/347ReyOdeE",
+          "expanded_url": "https://twitter.com/i/web/status/1410075212289253383",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 105985441,
+      "id_str": "105985441",
+      "name": "Spinach",
+      "screen_name": "SpinachAus",
+      "location": "Melbourne, Australia",
+      "description": "Nutrient rich full-service creative agency. Known to stimulate growth, lower blood pressure and relieve constipation in marketing departments.",
+      "url": "https://t.co/rUztdLaRGF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rUztdLaRGF",
+              "expanded_url": "http://spinach.com.au",
+              "display_url": "spinach.com.au",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 442,
+      "friends_count": 354,
+      "listed_count": 22,
+      "created_at": "Mon Jan 18 04:04:13 +0000 2010",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1009,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469294593687568385/dDELUr_p_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469294593687568385/dDELUr_p_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/105985441/1579238405",
+      "profile_link_color": "36AA49",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "48C238",
+      "profile_text_color": "4A424A",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 29 10:49:28 +0000 2021",
+    "id": 1409826343877963785,
+    "id_str": "1409826343877963785",
+    "text": "@SunRiceFoods what\u2019s up with the #RiceandQuinoa #brownrice ?? Got bugs in it. Bought from #WickhamWA #Woolworths ne\u2026 https://t.co/uQAAMBu7jb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RiceandQuinoa",
+          "indices": [
+            33,
+            47
+          ]
+        },
+        {
+          "text": "brownrice",
+          "indices": [
+            48,
+            58
+          ]
+        },
+        {
+          "text": "WickhamWA",
+          "indices": [
+            90,
+            100
+          ]
+        },
+        {
+          "text": "Woolworths",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SunRiceFoods",
+          "name": "SunRice",
+          "id": 393087828,
+          "id_str": "393087828",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uQAAMBu7jb",
+          "expanded_url": "https://twitter.com/i/web/status/1409826343877963785",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 393087828,
+    "in_reply_to_user_id_str": "393087828",
+    "in_reply_to_screen_name": "SunRiceFoods",
+    "user": {
+      "id": 1454625462,
+      "id_str": "1454625462",
+      "name": "TysonMowarin",
+      "screen_name": "TMowarin",
+      "location": "Roebourne Western Australia",
+      "description": "",
+      "url": "https://t.co/Snv7eJdEOV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Snv7eJdEOV",
+              "expanded_url": "http://www.icampfire.tv",
+              "display_url": "icampfire.tv",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 521,
+      "friends_count": 885,
+      "listed_count": 11,
+      "created_at": "Fri May 24 16:27:52 +0000 2013",
+      "favourites_count": 2021,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2060,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/761921149106163712/KMDx_H9A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/761921149106163712/KMDx_H9A_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454625462/1415501066",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 29 09:04:24 +0000 2021",
+    "id": 1409799905430827015,
+    "id_str": "1409799905430827015",
+    "text": "And just to be different.  #Woolworths at 9am today. https://t.co/YCw1Xendot",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Woolworths",
+          "indices": [
+            27,
+            38
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1409799893414125574,
+          "id_str": "1409799893414125574",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5CdiJtVIAYQVQG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5CdiJtVIAYQVQG.jpg",
+          "url": "https://t.co/YCw1Xendot",
+          "display_url": "pic.twitter.com/YCw1Xendot",
+          "expanded_url": "https://twitter.com/StellaBella67/status/1409799905430827015/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1409799893414125574,
+          "id_str": "1409799893414125574",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5CdiJtVIAYQVQG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5CdiJtVIAYQVQG.jpg",
+          "url": "https://t.co/YCw1Xendot",
+          "display_url": "pic.twitter.com/YCw1Xendot",
+          "expanded_url": "https://twitter.com/StellaBella67/status/1409799905430827015/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 601636715,
+      "id_str": "601636715",
+      "name": "Celina \ud83d\udc3e\ud83e\ude90\ud83d\ude80\ud83c\udfd6\ud83c\udf05\ud83d\udc3a \ud83d\udd96",
+      "screen_name": "StellaBella67",
+      "location": "Gold Coast, Australia",
+      "description": "Sci-fi, books, photography, puzzles, sunrises;  @PuppyRaffi my buddy. RIP Molly 7.5.19 Milly 11.3.21 #teambasement (Jason Isaacs & Benedict Cumberbatch fan.)",
+      "url": "https://t.co/enhJJEmIrO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/enhJJEmIrO",
+              "expanded_url": "https://www.instagram.com/stellar_reflections/",
+              "display_url": "instagram.com/stellar_reflec\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1258,
+      "friends_count": 3430,
+      "listed_count": 17,
+      "created_at": "Thu Jun 07 07:07:09 +0000 2012",
+      "favourites_count": 58500,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 28176,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1366699278807101442/79g8TrHg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366699278807101442/79g8TrHg_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/601636715/1615173815",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 29 08:52:20 +0000 2021",
+    "id": 1409796866494013448,
+    "id_str": "1409796866494013448",
+    "text": "I'm about to take Lockdown on and go to #woolies Wish me luck \ud83e\udd23",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "woolies",
+          "indices": [
+            40,
+            48
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 122268291,
+      "id_str": "122268291",
+      "name": "Tristan Jud",
+      "screen_name": "tristanjud",
+      "location": "Perth, Australia",
+      "description": "I'm in digital marketing. I've always been in digital marketing I just spent a lot of time behind the camera.",
+      "url": "https://t.co/z8PUdmiD7r",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/z8PUdmiD7r",
+              "expanded_url": "https://tristanjudmedia.com",
+              "display_url": "tristanjudmedia.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 562,
+      "friends_count": 198,
+      "listed_count": 70,
+      "created_at": "Fri Mar 12 04:31:33 +0000 2010",
+      "favourites_count": 491,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12146,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000356623891/efab10c45fabca69d9e298e8fa460d2f_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000356623891/efab10c45fabca69d9e298e8fa460d2f_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122268291/1624956821",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 29 03:35:14 +0000 2021",
+    "id": 1409717065485721600,
+    "id_str": "1409717065485721600",
+    "text": "If peeps need to panic buy toilet paper, please do it at Woolies, my shares are probably going to be the only retir\u2026 https://t.co/K83B3DHSR5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/K83B3DHSR5",
+          "expanded_url": "https://twitter.com/i/web/status/1409717065485721600",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1266551677,
+      "id_str": "1266551677",
+      "name": "T Mac",
+      "screen_name": "NoShins81",
+      "location": "Canberra",
+      "description": "Massive @raiderscanberra fan. #UpTheMilk #backtheblues @Queanbeyan #Qtown born and bred. Will reply with stupid comments. Expert. https://t.co/CsASyCiw9E",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/CsASyCiw9E",
+              "expanded_url": "https://gofund.me/3b6f2ca3",
+              "display_url": "gofund.me/3b6f2ca3",
+              "indices": [
+                130,
+                153
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 704,
+      "friends_count": 1770,
+      "listed_count": 8,
+      "created_at": "Thu Mar 14 08:30:59 +0000 2013",
+      "favourites_count": 111059,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 32997,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1411099584353370114/8yk9c-0h_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411099584353370114/8yk9c-0h_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1266551677/1587881414",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 28 07:31:00 +0000 2021",
+    "id": 1409414012660436994,
+    "id_str": "1409414012660436994",
+    "text": "Woolies trying their hardest to not scream \"you guys are fucking idiots, stop it!\"\n\n#woolies #panicbuying\u2026 https://t.co/ZCgwxnzxXT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "woolies",
+          "indices": [
+            84,
+            92
+          ]
+        },
+        {
+          "text": "panicbuying",
+          "indices": [
+            93,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZCgwxnzxXT",
+          "expanded_url": "https://twitter.com/i/web/status/1409414012660436994",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1259160552,
+      "id_str": "1259160552",
+      "name": "Not A Cylon",
+      "screen_name": "jasmin_bulk",
+      "location": "Australia",
+      "description": "Still waiting for my cheque from NASA for existing in a country that doesn't exist",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 342,
+      "listed_count": 0,
+      "created_at": "Mon Mar 11 10:59:11 +0000 2013",
+      "favourites_count": 274,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1144,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347706129279696900/BS6hsOty_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347706129279696900/BS6hsOty_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259160552/1478682975",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
